@@ -1,6 +1,6 @@
 # 💫 About Me:
 My name is Chirag Agrawal. I am passionate about Software Engineering. I am a MERN Stack Developer. Currently I'm working on few projects which include - 
-# E-commerce, ### Project Management System, ## Employee Orientation and Onboading ( Video on Demand App ).
+###E-commerce, ###Project Management System, ###Employee Orientation and Onboading ( Video on Demand App ).
 
 
 ## 🌐 Socials:
