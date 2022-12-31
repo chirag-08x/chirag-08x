@@ -4,6 +4,22 @@ My name is Chirag Agrawal. I am passionate about Software Engineering. I am a ME
 #### Project Management System, 
 #### Employee Orientation and Onboading ( Video on Demand App ).
 
+👋🏽 Hi, my name is Chirag
+
+🎓 Soon to be grad with a Bachelor's of Technology in Computer Science. (May, 2023)
+
+🌇 India Native, with a passion for picking complex problems and develop strategies to solve them that 
+ will grow your business.
+
+📚 In past I've worked with a company called OIBRE LABS as a Frontend Developer and helped them build 
+ their Beta App and Landing Pages.
+
+💻 As for my future, I hope one day I'll work as a Software Engineer and work with a diverse Team.
+
+🏔 In my free time, I do swimming, play snooker and cricket.
+
+💪🏽 Talks About Software Engineering,  Development, Problem Solving(DSA)
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/chirag-agrawal-306811205) 
