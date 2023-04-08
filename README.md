@@ -13,7 +13,9 @@
 
 🏔 In my free time, I do swimming, play snooker and cricket.
 
-💪🏽 Talks About Software Engineering,  Development, Problem Solving(DSA)
+💪🏽 Talks About Software Engineering,  Development, Problem Solving(DSA).
+
+📱 Currently Learning App Development using Fluuter.
 
 
 ## 🌐 Socials:
