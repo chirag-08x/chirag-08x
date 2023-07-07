@@ -1,7 +1,7 @@
 # 💫 About Me:
 👋🏽 Hi, my name is Chirag
 
-🎓 Soon to be grad with a Bachelor's of Technology in Computer Science. (May, 2023)
+🎓 2023 Grad in Computer Science
 
 🌇 India Native, with a passion for picking complex problems and develop strategies to solve them that 
  will grow your business.
