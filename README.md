@@ -6,8 +6,7 @@
 🌇 India Native, with a passion for picking complex problems and develop strategies to solve them that 
  will grow your business.
 
-📚 In past I've worked with a company called OIBRE LABS as a Frontend Developer and helped them build 
- their Beta App and Landing Pages.
+📚 In past I've worked with two companies called AZODHA and MICRO as a Frontend Developer/
 
 💻 As for my future, I hope one day I'll work as a Software Engineer and work with a diverse Team.
 
