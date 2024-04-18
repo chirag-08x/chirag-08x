@@ -14,8 +14,6 @@
 
 💪🏽 Talks About Software Engineering,  Development, Problem Solving(DSA).
 
-📱 Currently Learning App Development using Fluuter.
-
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/chirag-agrawal-306811205) 
