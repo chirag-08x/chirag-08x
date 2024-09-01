@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋🏽 Hi, my name is Chirag
+👋🏽 Hi, my name is Chirag Agrawal
 
 🎓 2023 Grad in Computer Science
 
