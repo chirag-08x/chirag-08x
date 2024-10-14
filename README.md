@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋🏽 Hi, I'm Chirag Agrawal.
+👋🏽 Hi, I'm Chirag
 
 🎓 A 2023 Computer Science graduate with a knack for turning complex problems into streamlined solutions that drive business success.
 
