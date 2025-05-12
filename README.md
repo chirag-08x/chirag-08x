@@ -5,7 +5,7 @@
 
 🌍 Hailing from the vibrant landscapes of India, I'm fueled by a passion for innovation and excellence in software development.
 
-💼 Over the past 2 years, I've honed my skills as a Frontend Developer, contributing to impactful projects across diverse industries. My journey has taken me through exciting roles at Gamitar (Full-time), Azodha (Intern), Micro (Intern), and Kyte (Freelance).
+💼 Over the past 2 years, I've honed my skills as a Frontend Developer, contributing to impactful projects across diverse industries. My journey has taken me through exciting roles at Aventisia (Full-time), Gamitar (Full-time), Azodha (Intern), Micro (Intern), and Kyte (Freelance).
 
 🚀 My ambition is to evolve into a Software Engineer, where I can collaborate with a dynamic team and continue to push the boundaries of what's possible in technology.
 
